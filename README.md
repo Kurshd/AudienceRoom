@@ -1,0 +1,1 @@
+Audience Room is a ticket platform that enables users to buy tickets for live sports, concerts and theater events. Audience Room allows both mobile application and desktop users to browse events, view interactive color-coded seat maps, complete purchases, and receive electronic or print tickets.
