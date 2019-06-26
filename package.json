@@ -1,0 +1,19 @@
+{
+  "name": "audienceroom",
+  "version": "1.0.0",
+  "description": "Audience Room is a ticket platform that enables users to buy tickets for live sports, concerts and theater events.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurshd/AudienceRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurshd/AudienceRoom/issues"
+  },
+  "homepage": "https://github.com/Kurshd/AudienceRoom#readme"
+}
